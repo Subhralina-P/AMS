@@ -1,1 +1,1 @@
-# AMS
+# my projects
